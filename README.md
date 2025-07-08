@@ -33,11 +33,12 @@ user-friendly interface.
 ▶ Step 2: Open the Bash terminal <br>
 ▶ Step 3: Install dependencies using: <br>
 
-bash
+```bash
 pip install -r required-libraries.txt
-
+```
 
 ▶ Step 4: Run the app: <br>
 
-bash
+```bash
 python -m streamlit run Smart-Study-Rag-Chatbot.py
+```
